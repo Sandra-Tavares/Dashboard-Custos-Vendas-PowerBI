@@ -3,7 +3,7 @@
 ## Objetivo
 Dashboard desenvolvido para acompanhar o desempenho comercial, analisar faturamento e custos de vendas, identificar a participação dos clientes e monitorar o volume de produtos vendidos. A base de dados é fictícia, utilizada para fins de estudo e portfólio.
 
-![Visão geral do dashboard]()
+![Visão geral do dashboard](Captura de tela 2026-11-24 155704.png)
 
 ## Tecnologias e desenvolvimento
 - Microsoft Power BI Desktop
