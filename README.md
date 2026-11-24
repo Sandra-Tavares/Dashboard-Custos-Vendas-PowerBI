@@ -51,4 +51,4 @@ O painel não apresenta um KPI específico de lucro ou margem. As análises acim
 4. Para atualizar os dados, verifique a disponibilidade da fonte original.
 
 ## Autoria
-Sandra Tavares — projeto de análise de dados e Business Intelligence.
+Sandra Tavares — projeto de análise de dados e Business Intelligence curso Power BI para projetos da Udemy
