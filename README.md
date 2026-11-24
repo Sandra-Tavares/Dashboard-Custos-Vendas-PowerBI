@@ -5,7 +5,7 @@ Dashboard desenvolvido para acompanhar o desempenho comercial, analisar faturame
 
 ![Visão geral do dashboard](imagem_dashboard_financas.png)
 
-## Tecnologias e desenvolvimento##
+# Tecnologias e desenvolvimento 
 - Microsoft Power BI Desktop
 - Medidas DAX
 - Agregações de dados e hierarquia de datas
@@ -15,7 +15,7 @@ O relatório utiliza a tabela `INDICADORES`, com os campos `NOME CLIENTE`, `DATA
 
 A origem da base, as etapas de tratamento no Power Query e as expressões DAX exatas não foram verificadas.
 
-## Indicadores (KPIs)
+# Indicadores (KPIs)
 
 | Indicador | Finalidade |
 | --- | --- |
@@ -24,7 +24,7 @@ A origem da base, as etapas de tratamento no Power Query e as expressões DAX ex
 | Quantidade de produtos vendidos | Acompanhar o volume comercializado pela soma de QUANTIDADE VENDIDA. |
 | Data atual | Exibir a referência temporal retornada pela medida DATA ATUAL. |
 
-## Gráficos e tabelas
+# Gráficos e tabelas
 
 | Visual | Finalidade |
 | --- | --- |
@@ -34,11 +34,11 @@ A origem da base, as etapas de tratamento no Power Query e as expressões DAX ex
 | Resumo de qtde valor indicador | Detalhar cliente, quantidade vendida, total de vendas e indicador. |
 | Valor de venda por cliente | Exibir data, soma do custo de venda, faturamento e indicador. O visual não contém o campo cliente; recomenda-se revisar o título ou incluir esse campo. |
 
-## Filtros interativos
+# Filtros interativos
 - **Ano e mês:** selecionar períodos pela hierarquia do campo DATA.
 - **Indicador:** segmentar a análise pelas categorias registradas na base.
 
-## Análises de negócio possibilitadas
+# Análises de negócio possibilitadas
 - Identificar clientes com maior participação no faturamento.
 - Comparar o desempenho comercial entre períodos e categorias.
 - Acompanhar o volume de produtos comercializados.
@@ -46,11 +46,11 @@ A origem da base, as etapas de tratamento no Power Query e as expressões DAX ex
 
 O painel não apresenta um KPI específico de lucro ou margem. As análises acima representam possibilidades de exploração, não conclusões numéricas verificadas.
 
-## Como utilizar
+# Como utilizar
 1. Após a disponibilização do arquivo Projeto_custos_vendas.pbix neste repositório, faça o download.
 2. Abra-o no Microsoft Power BI Desktop.
 3. Utilize os filtros e explore os gráficos e tabelas.
 4. Para atualizar os dados, verifique a disponibilidade da fonte original.
 
-## Autoria
+# Autoria
 Sandra Tavares — projeto de análise de dados e Business Intelligence curso Power BI para projetos da Udemy
