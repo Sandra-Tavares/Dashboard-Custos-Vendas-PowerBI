@@ -5,7 +5,7 @@ Dashboard desenvolvido para acompanhar o desempenho comercial, analisar faturame
 
 ![Visão geral do dashboard](imagem_dashboard_financas.png)
 
-## Tecnologias e desenvolvimento
+## Tecnologias e desenvolvimento##
 - Microsoft Power BI Desktop
 - Medidas DAX
 - Agregações de dados e hierarquia de datas
